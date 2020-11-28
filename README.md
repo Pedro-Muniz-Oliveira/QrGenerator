@@ -1,0 +1,2 @@
+# QrGenerator
+Criado
