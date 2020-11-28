@@ -1,2 +1,2 @@
 # QrGenerator
-Criado
+Criador de qrcode
